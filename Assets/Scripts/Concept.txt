@@ -1,0 +1,31 @@
+Hero
+	-Defence
+		+ 1 - 100
+	-Attack
+		+ 1 - 100
+	-Speed
+		+1 - 20
+	-Agility
+		+1 - 5
+
+Unit
+	-Defence
+		+ 1 - 20
+	-Attack
+		+ 1 - 20
+	-Speed
+		+1 - 10
+
++1 Unit Upgrade = +1 Unit Cost
+
+
+Units
+	-Scout - 2 cubes
+	-Bomb Scout - 5 cubes
+	-Warrior - 10 cubes
+	-Rifleman - 8 cubes
+	-Tank - 15 cubes
+	-Bomber - 15 cubes
+	-
+
+

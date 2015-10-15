@@ -1,0 +1,44 @@
+TITLE
+Cube Conqueror
+NEWGAME
+New Game
+LOADGAME
+Load Game
+QUIT
+Quit
+BACK
+Back
+DELETE
+Delete
+PLAY
+Play
+SELECTWORLD
+Select World:
+START
+Start
+TEAM
+Team:
+WORLDNAME
+World Name:
+ATTACK
+Attack
+BUILD
+BUILD
+TRAIN
+TRAIN
+SCOUT
+Scout
+WARRIOR
+Warrior
+PAUSED
+Paused
+RESUME
+Resume
+OPTIONS
+Options
+MAINMENU
+Main Menu
+LANGUAGE
+Language
+CONTROLS
+Controls
